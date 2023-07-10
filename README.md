@@ -7,7 +7,7 @@ This capstone project course will give you a taste of what data scientists go th
 - [Data wrangling](https://github.com/cipher499/IBM-Data-Science-Pro/blob/792bfb295be7b5051655c52683e3af7b78aa2714/3-%20Data%20wrangling.ipynb),
 - [Exploratory data analysis](https://github.com/cipher499/IBM-Data-Science-Pro/blob/792bfb295be7b5051655c52683e3af7b78aa2714/5-%20EDA%20pandas.ipynb),
 - [Data visualization](https://github.com/cipher499/IBM-Data-Science-Pro/blob/792bfb295be7b5051655c52683e3af7b78aa2714/7-%20Dash_app.py),
-- [Model development](https://github.com/cipher499/IBM-Data-Science-Pro/blob/792bfb295be7b5051655c52683e3af7b78aa2714/8-%20ML%20predictive%20analytics.ipynb) 
+- [Model development, model evaluation](https://github.com/cipher499/IBM-Data-Science-Pro/blob/792bfb295be7b5051655c52683e3af7b78aa2714/8-%20ML%20predictive%20analytics.ipynb) 
 
-model evaluation, and reporting your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully.
+, and reporting your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully.
 
